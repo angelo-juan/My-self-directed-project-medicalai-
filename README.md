@@ -7,5 +7,5 @@ This self directed study project focused on the practical application of AI in t
 <img width="320" height="316" alt="image" src="https://github.com/user-attachments/assets/ceba6231-a480-4015-a7ae-150be398c459" />
 <img width="320" height="325" alt="image" src="https://github.com/user-attachments/assets/dc613f1d-1402-466c-8b15-3cdc86d05ca3" />
 <img width="321" height="324" alt="image" src="https://github.com/user-attachments/assets/574545da-8e6d-4739-87a5-2e2a84471ef4" />
-<img width="284" height="176" alt="image" src="https://github.com/user-attachments/assets/618256e8-2fd3-4ef6-aa6e-fcb10df624a8" />
+<img width="640" height="540" alt="image" src="https://github.com/user-attachments/assets/618256e8-2fd3-4ef6-aa6e-fcb10df624a8" />
 
